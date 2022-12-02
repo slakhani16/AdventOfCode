@@ -1,22 +1,5 @@
 #Day 1 Puzzle - Return calorie count of Elf that has most snacks 
 
-#Import info of calories each elf is carrying
-
-
-#Parse data into array of strings/int
-
-
-#Assign each elf its calories based on line break
-
-
-#Convert string to int
-
-
-#Total count of calories each elf is carrying
-
-
-#Return total of elf with most calories
-
 with open("data.txt", "r") as f:
     raw_data = f.read()
 
